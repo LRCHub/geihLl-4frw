@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "真夜中の遊園地",
+  "base_artist": "AJISAI",
+  "createdAt": "2025-12-16T17:08:02.715915Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "真夜中の遊園地",
+      "artist": "AJISAI",
+      "has_synced": false,
+      "path": "select/pl_01_真夜中の遊園地_AJISAI.txt"
+    }
+  ]
+}
